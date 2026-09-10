@@ -1,0 +1,37 @@
+[
+  {
+    "command": "clang++ -c C:\\CodeLite\\Sesion01\\Ejemplo07\\main.cpp -o C:\\CodeLite\\Sesion01\\Ejemplo07\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall",
+    "directory": "C:\\CodeLite\\Sesion01\\Ejemplo07",
+    "file": "C:\\CodeLite\\Sesion01\\Ejemplo07\\main.cpp"
+  },
+  {
+    "command": "clang++ -c C:\\CodeLite\\Sesion01\\Ejemplo05\\main.cpp -o C:\\CodeLite\\Sesion01\\Ejemplo05\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall",
+    "directory": "C:\\CodeLite\\Sesion01\\Ejemplo05",
+    "file": "C:\\CodeLite\\Sesion01\\Ejemplo05\\main.cpp"
+  },
+  {
+    "command": "clang++ -c C:\\CodeLite\\Sesion01\\Ejemplo06\\main.cpp -o C:\\CodeLite\\Sesion01\\Ejemplo06\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall",
+    "directory": "C:\\CodeLite\\Sesion01\\Ejemplo06",
+    "file": "C:\\CodeLite\\Sesion01\\Ejemplo06\\main.cpp"
+  },
+  {
+    "command": "clang++ -c C:\\CodeLite\\Sesion01\\Ejemplo04\\main.cpp -o C:\\CodeLite\\Sesion01\\Ejemplo04\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall",
+    "directory": "C:\\CodeLite\\Sesion01\\Ejemplo04",
+    "file": "C:\\CodeLite\\Sesion01\\Ejemplo04\\main.cpp"
+  },
+  {
+    "command": "clang++ -c C:\\CodeLite\\Sesion01\\Ejemplo08\\main.cpp -o C:\\CodeLite\\Sesion01\\Ejemplo08\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall",
+    "directory": "C:\\CodeLite\\Sesion01\\Ejemplo08",
+    "file": "C:\\CodeLite\\Sesion01\\Ejemplo08\\main.cpp"
+  },
+  {
+    "command": "clang++ -c C:\\CodeLite\\Sesion01\\Ejemplo03\\main.cpp -o C:\\CodeLite\\Sesion01\\Ejemplo03\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall",
+    "directory": "C:\\CodeLite\\Sesion01\\Ejemplo03",
+    "file": "C:\\CodeLite\\Sesion01\\Ejemplo03\\main.cpp"
+  },
+  {
+    "command": "clang++ -c C:\\CodeLite\\Sesion01\\Ejemplo01\\main.cpp -o C:\\CodeLite\\Sesion01\\Ejemplo01\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall",
+    "directory": "C:\\CodeLite\\Sesion01\\Ejemplo01",
+    "file": "C:\\CodeLite\\Sesion01\\Ejemplo01\\main.cpp"
+  }
+]
